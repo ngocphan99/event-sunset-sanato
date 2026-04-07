@@ -118,11 +118,10 @@ export const SOUND_PACKAGES = [
     capacity: "Dưới 50 khách (Indoor)", 
     price: "6,000,000",
     equipment: [
-      "2 Full PL210AR - 2 Sub PL218AR - 2 Monitor P15AR",
-      "4 Micro SVT - 1 Mixer Dynacord CMS1000",
-      "1 Laptop - 1 Cáp 16Line",
-      "4 Parled",
-      "1 Máy chiếu"
+      "2 Full đơn - 2 Sub đơn",
+      "4 Mic - 1 Mixer YAMAHA 12XU",
+      "6 Par led 180W - 4 Beam 295W",
+      "1 Máy chiếu - 1 Màn chiếu 120 inch"
     ]
   },
   { 
